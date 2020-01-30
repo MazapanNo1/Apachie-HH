@@ -291,7 +291,7 @@
             "compress_bin": true,
             "description": "Newvibes 22300A Code",
             "remote_name": "newvibes",
-            "slot": 2
+            "slot": 1
         }
     }
 }
